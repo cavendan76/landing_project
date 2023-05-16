@@ -1,0 +1,53 @@
+.header {
+  height: 5em;
+  padding: 5em;
+  background-image: url("../imgs/azul.jpg");
+  background-size: 100% 100%;
+  font-family: "Lucida Sans";
+}
+
+.header h1 {
+  margin: 0px;
+  font-weight: 500;
+  color: beige;
+}
+
+.header p {
+  margin: 0px;
+  font-weight: 600;
+  color: beige;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: beige;
+}
+
+.products {
+  width: 80%;
+  margin: auto;
+}
+
+.products td {
+  width: 50%;
+  padding: 2em;
+}
+
+.products p {
+  font-weight: 200;
+  color: rgb(8, 49, 229);
+}
+
+.products img {
+  width: 100%;
+  border: solid 2px #ddd;
+}
+
+.footer {
+  height: 3em;
+  line-height: 3em;
+  background-color: rgb(41, 185, 142);
+  color: blue;
+  text-align: center;
+  font-weight: 900;
+}
